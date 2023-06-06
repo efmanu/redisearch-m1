@@ -1,0 +1,1 @@
+# RediSearch Dockerfile for Mac ARM
